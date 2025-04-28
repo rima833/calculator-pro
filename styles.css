@@ -58,7 +58,7 @@ form input.all{
 @media (max-width: 768px) {
     .calculator {
         padding: 15px;
-        border-radius: 8px;
+        border-radius: 7px;
     }
     .calculator form input {
         width: 60px;
