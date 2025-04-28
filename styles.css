@@ -59,7 +59,6 @@ form input.all{
     .calculator {
         padding: 15px;
         border-radius: 7px;
-        overflow: hidden;
     }
     .calculator form input {
         width: 70px;
