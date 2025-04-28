@@ -62,7 +62,7 @@ form input.all{
     }
     .calculator form input {
         width: 60px;
-        height: 60px;
+        height: 80px;
         font-size: 18px;
         margin: 8px;
     }
@@ -82,7 +82,7 @@ form input.all{
     }
     .calculator form input {
         width: 50px;
-        height: 50px;
+        height: 80px;
         font-size: 16px;
         margin: 5px;
     }
