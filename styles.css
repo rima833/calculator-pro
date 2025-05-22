@@ -94,3 +94,19 @@ form input.all{
         font-size: 35px;
     }
 }
+/* Add animation for display value change */
+@keyframes highlight {
+    0% {
+        background-color: #ffe082;
+        color: #3a4452;
+    }
+    100% {
+        background-color: transparent;
+        color: #fff;
+    }
+}
+
+form .display input.animated {
+    animation: highlight 0.5s;
+    transition: color 0.3s;
+}
